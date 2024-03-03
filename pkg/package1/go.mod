@@ -1,4 +1,4 @@
-module example.com/monorepo
+module example.com/monorepo/pkg/package1
 
 go 1.22.0
 
